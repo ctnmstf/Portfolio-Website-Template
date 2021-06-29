@@ -1,0 +1,49 @@
+  .navbar {
+    background-color:rgb(0, 0, 0, 1);
+  }
+  .navbar-nav {
+    margin:auto;
+  }
+  .nav-link {
+    margin:10px 25px;
+    color:#fff;
+  }
+  .nav-link:hover {
+    color:yellow;
+  }
+
+  .jumbotron {
+    color: gray;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+  }
+
+  .center {
+    text-align: center;
+    margin-top: 150px;
+  }
+
+  .footer {
+    position:relative;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+    line-height: 60px;
+    background-color: #000000;
+    margin-top: 1rem;
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 3px solid rgba(0, 0, 0, 0.1);
+  }
+
+  #brand1{
+    margin-left: 20px;
+    font-size: 25px;
+  }
